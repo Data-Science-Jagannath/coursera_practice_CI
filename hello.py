@@ -9,8 +9,3 @@ def more_bye():
 # this is nonsense code that generated a warning in when we write
 # make lint in cmd
 
-# var = 1
-# var = var
-
-# bad syntax
-# foo =
